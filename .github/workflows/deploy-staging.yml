@@ -1,5 +1,5 @@
 name: Deploy to staging
-# Let's try another push
+# Let's try another push...
 on:
   pull_request:
     types: [labeled]
